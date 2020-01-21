@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\bin\Debug\netstandard2.0\BankAccountLib.deps.json
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\bin\Debug\netstandard2.0\BankAccountLib.dll
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\bin\Debug\netstandard2.0\BankAccountLib.pdb
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.dll
+C:\Users\TOSHIBA\Documents\immesion\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.pdb

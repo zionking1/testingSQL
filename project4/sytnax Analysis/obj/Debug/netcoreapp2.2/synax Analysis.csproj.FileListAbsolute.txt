@@ -1,0 +1,8 @@
+C:\Users\TOSHIBA\Documents\immesion\project4\synax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\synax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\synax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\synax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project4\sytnax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\sytnax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\sytnax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\sytnax Analysis\obj\Debug\netcoreapp2.2\synax Analysis.AssemblyInfo.cs

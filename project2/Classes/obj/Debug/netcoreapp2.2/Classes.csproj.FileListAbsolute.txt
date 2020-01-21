@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\obj\Debug\netcoreapp2.2\Classes.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\obj\Debug\netcoreapp2.2\Classes.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\bin\Debug\netcoreapp2.2\Classes.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\bin\Debug\netcoreapp2.2\Classes.dll
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\bin\Debug\netcoreapp2.2\Classes.pdb
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\obj\Debug\netcoreapp2.2\Classes.dll
+C:\Users\TOSHIBA\Documents\immesion\project2\Classes\obj\Debug\netcoreapp2.2\Classes.pdb

@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\obj\Debug\netcoreapp2.2\sustain_wok.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\obj\Debug\netcoreapp2.2\sustain_wok.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\obj\Debug\netcoreapp2.2\sustain_wok.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\obj\Debug\netcoreapp2.2\sustain_wok.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\bin\Debug\netcoreapp2.2\sustain_wok.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\bin\Debug\netcoreapp2.2\sustain_wok.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\bin\Debug\netcoreapp2.2\sustain_wok.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\bin\Debug\netcoreapp2.2\sustain_wok.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\bin\Debug\netcoreapp2.2\sustain_wok.pdb
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\obj\Debug\netcoreapp2.2\sustain_wok.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\sustain_wok\obj\Debug\netcoreapp2.2\sustain_wok.pdb

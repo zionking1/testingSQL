@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\bin\Debug\netcoreapp2.2\GodwinGuid.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\bin\Debug\netcoreapp2.2\GodwinGuid.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\bin\Debug\netcoreapp2.2\GodwinGuid.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\bin\Debug\netcoreapp2.2\GodwinGuid.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\bin\Debug\netcoreapp2.2\GodwinGuid.pdb
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\obj\Debug\netcoreapp2.2\GodwinGuid.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\obj\Debug\netcoreapp2.2\GodwinGuid.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\obj\Debug\netcoreapp2.2\GodwinGuid.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\obj\Debug\netcoreapp2.2\GodwinGuid.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\obj\Debug\netcoreapp2.2\GodwinGuid.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\GodwinGuid\obj\Debug\netcoreapp2.2\GodwinGuid.pdb

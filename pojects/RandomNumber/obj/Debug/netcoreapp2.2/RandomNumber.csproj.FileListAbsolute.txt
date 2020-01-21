@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\bin\Debug\netcoreapp2.2\RandomNumber.deps.json
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\bin\Debug\netcoreapp2.2\RandomNumber.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\bin\Debug\netcoreapp2.2\RandomNumber.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\bin\Debug\netcoreapp2.2\RandomNumber.dll
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\bin\Debug\netcoreapp2.2\RandomNumber.pdb
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\obj\Debug\netcoreapp2.2\RandomNumber.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\obj\Debug\netcoreapp2.2\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\obj\Debug\netcoreapp2.2\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\obj\Debug\netcoreapp2.2\RandomNumber.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\obj\Debug\netcoreapp2.2\RandomNumber.dll
+C:\Users\TOSHIBA\Documents\immesion\pojects\RandomNumber\obj\Debug\netcoreapp2.2\RandomNumber.pdb

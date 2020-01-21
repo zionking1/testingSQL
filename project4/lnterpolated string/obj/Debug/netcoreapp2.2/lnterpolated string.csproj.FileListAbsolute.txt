@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\obj\Debug\netcoreapp2.2\lnterpolated string.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\obj\Debug\netcoreapp2.2\lnterpolated string.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\obj\Debug\netcoreapp2.2\lnterpolated string.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\obj\Debug\netcoreapp2.2\lnterpolated string.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\bin\Debug\netcoreapp2.2\lnterpolated string.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\bin\Debug\netcoreapp2.2\lnterpolated string.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\bin\Debug\netcoreapp2.2\lnterpolated string.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\bin\Debug\netcoreapp2.2\lnterpolated string.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\bin\Debug\netcoreapp2.2\lnterpolated string.pdb
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\obj\Debug\netcoreapp2.2\lnterpolated string.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\lnterpolated string\obj\Debug\netcoreapp2.2\lnterpolated string.pdb

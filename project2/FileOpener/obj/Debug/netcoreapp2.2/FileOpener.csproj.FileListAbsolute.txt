@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\bin\Debug\netcoreapp2.2\FileOpener.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\bin\Debug\netcoreapp2.2\FileOpener.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\bin\Debug\netcoreapp2.2\FileOpener.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\bin\Debug\netcoreapp2.2\FileOpener.dll
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\bin\Debug\netcoreapp2.2\FileOpener.pdb
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\obj\Debug\netcoreapp2.2\FileOpener.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\obj\Debug\netcoreapp2.2\FileOpener.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\obj\Debug\netcoreapp2.2\FileOpener.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\obj\Debug\netcoreapp2.2\FileOpener.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\obj\Debug\netcoreapp2.2\FileOpener.dll
+C:\Users\TOSHIBA\Documents\immesion\project2\FileOpener\obj\Debug\netcoreapp2.2\FileOpener.pdb
