@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\obj\Debug\netcoreapp3.1\Smat_Calculato.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\obj\Debug\netcoreapp3.1\Smat_Calculato.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\obj\Debug\netcoreapp3.1\Smat_Calculato.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\bin\Debug\netcoreapp3.1\Smat_Calculato.exe
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\bin\Debug\netcoreapp3.1\Smat_Calculato.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\bin\Debug\netcoreapp3.1\Smat_Calculato.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\bin\Debug\netcoreapp3.1\Smat_Calculato.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\bin\Debug\netcoreapp3.1\Smat_Calculato.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\bin\Debug\netcoreapp3.1\Smat_Calculato.pdb
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\obj\Debug\netcoreapp3.1\Smat_Calculato.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\Smat_Calculato\obj\Debug\netcoreapp3.1\Smat_Calculato.pdb

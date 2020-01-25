@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\obj\Debug\netcoreapp3.1\DAY_OF_WEEK.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\obj\Debug\netcoreapp3.1\DAY_OF_WEEK.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\obj\Debug\netcoreapp3.1\DAY_OF_WEEK.AssemblyInfo.cs
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\bin\Debug\netcoreapp3.1\DAY_OF_WEEK.exe
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\bin\Debug\netcoreapp3.1\DAY_OF_WEEK.deps.json
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\bin\Debug\netcoreapp3.1\DAY_OF_WEEK.runtimeconfig.json
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\bin\Debug\netcoreapp3.1\DAY_OF_WEEK.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\bin\Debug\netcoreapp3.1\DAY_OF_WEEK.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\bin\Debug\netcoreapp3.1\DAY_OF_WEEK.pdb
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\obj\Debug\netcoreapp3.1\DAY_OF_WEEK.dll
+C:\Users\TOSHIBA\Documents\immesion\project4\DAY_OF_WEEK\obj\Debug\netcoreapp3.1\DAY_OF_WEEK.pdb
