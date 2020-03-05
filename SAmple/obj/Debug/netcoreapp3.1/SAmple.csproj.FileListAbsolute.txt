@@ -1,0 +1,3 @@
+C:\Users\TOSHIBA\Documents\immesion\SAmple\obj\Debug\netcoreapp3.1\SAmple.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\immesion\SAmple\obj\Debug\netcoreapp3.1\SAmple.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Documents\immesion\SAmple\obj\Debug\netcoreapp3.1\SAmple.AssemblyInfo.cs

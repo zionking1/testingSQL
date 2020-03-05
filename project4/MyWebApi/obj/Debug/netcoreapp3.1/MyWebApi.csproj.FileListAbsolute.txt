@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\obj\Debug\netcoreapp3.1\MyWebApi.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\obj\Debug\netcoreapp3.1\MyWebApi.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\obj\Debug\netcoreapp3.1\MyWebApi.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\bin\Debug\netcoreapp3.1\MyWebApi.exe
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\bin\Debug\netcoreapp3.1\MyWebApi.deps.json
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\bin\Debug\netcoreapp3.1\MyWebApi.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\bin\Debug\netcoreapp3.1\MyWebApi.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\bin\Debug\netcoreapp3.1\MyWebApi.dll
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\bin\Debug\netcoreapp3.1\MyWebApi.pdb
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\obj\Debug\netcoreapp3.1\MyWebApi.dll
+C:\Users\TOSHIBA\Desktop\Documents\immesion\project4\MyWebApi\obj\Debug\netcoreapp3.1\MyWebApi.pdb
